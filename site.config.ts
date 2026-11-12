@@ -6,7 +6,7 @@ export const site: SiteConfig = {
   category: "Halal milk cakes",
   schemaType: "Bakery",
   area: "Toronto, ON",
-  siteUrl: "https://halaly-bakes.vercel.app",
+  siteUrl: "https://halaly-bakes-ca.vercel.app",
 
   theme: {
     preset: "bakery-pastel",
